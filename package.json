@@ -1,0 +1,21 @@
+{
+  "name": "repo-template",
+  "version": "1.0.0",
+  "description": "as repo name",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wynn-w/template.git"
+  },
+  "keywords": [
+    "template",
+    "config"
+  ],
+  "author": "wynn-w (wwwynn22@gmail.com)",
+  "license": "Apache License2.0",
+  "bugs": {
+    "url": "https://github.com/wynn-w/template/issues"
+  },
+  "homepage": "https://github.com/wynn-w/template#readme"
+}
